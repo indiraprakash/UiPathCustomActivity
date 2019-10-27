@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clCustomActivity", "clCustomActivity\clCustomActivity.csproj", "{29D7AF68-EFA5-4F14-B3ED-FD3C989E3DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clCustomActivityTest", "clCustomActivityTest\clCustomActivityTest.csproj", "{11E10D46-34F1-4261-8B99-74A463B2C423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D7AF68-EFA5-4F14-B3ED-FD3C989E3DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D7AF68-EFA5-4F14-B3ED-FD3C989E3DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D7AF68-EFA5-4F14-B3ED-FD3C989E3DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D7AF68-EFA5-4F14-B3ED-FD3C989E3DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E10D46-34F1-4261-8B99-74A463B2C423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E10D46-34F1-4261-8B99-74A463B2C423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E10D46-34F1-4261-8B99-74A463B2C423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E10D46-34F1-4261-8B99-74A463B2C423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63122A2-5E89-4A31-9980-2671918E0D9F}
+	EndGlobalSection
+EndGlobal
